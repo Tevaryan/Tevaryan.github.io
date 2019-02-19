@@ -1,0 +1,44 @@
+body{
+    background-image: url(../Images/background.jpg);
+    background-size: 100% 100%;
+}
+
+#description{
+    margin-top: 1%;
+    
+}
+
+.title{
+    margin-top: 10%;
+    font-size: 85px;
+    margin-left: 0%;
+    font-weight: 700;
+}
+
+.link{
+    margin-left:50%;
+    font-size: 25px;
+    font-weight: 550;
+    color: black;
+}
+
+.link:hover {
+    color: black;
+    text-decoration:none; 
+    border-bottom: 2px solid black;
+}
+
+#profilephoto{
+    background-color: 7D7F83;
+}
+
+.info{
+    margin-bottom: 0;
+    margin-left: 80px;
+}
+
+#spacer{
+    display: block;
+    height: 24%;
+    width: 100%
+}
